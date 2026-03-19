@@ -1,5 +1,11 @@
 [
   {
+    "id": -1,
+    "name": "[!] SUGGEST GAMES .gg/D4c9VFYWyU",
+    "cover": "{COVER_URL}/dc.png",
+    "url": "https://discord.gg/D4c9VFYWyU"
+  },
+  {
     "id": 0,
     "name": "Bowmasters",
     "cover": "{COVER_URL}/0.png",
@@ -5796,7 +5802,7 @@
     "cover": "{COVER_URL}/668.png",
     "url": "{HTML_URL}/668-fix2.html",
     "author": "Another Axiom Inc, Boolonx",
-    "authorLink": "https://boolonx.com/gtag/?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
+    "authorLink": "https://boolonx.com/gtag/",
     "special": [
       "port"
     ]
@@ -6832,7 +6838,7 @@
     "cover": "{COVER_URL}/769.png",
     "url": "{HTML_URL}/769.html",
     "author": "unknown",
-    "authorLink": "https://www.example.com/"
+    "authorLink": "https://example.com"
   },
   {
     "id": 770,
